@@ -16,6 +16,13 @@ This project aims to provide insight into the employee survey data to help the H
 
 **_Disclaimer_** : _all datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of PowerBi._
 
+![image](https://github.com/PhenyoEstherRasekedi/Data-Analysis-Capstone-Project-4/assets/155717861/6e7d283e-4916-440f-80d5-1553a3bf7d85)
+
+![image](https://github.com/PhenyoEstherRasekedi/Data-Analysis-Capstone-Project-4/assets/155717861/43107a4d-8ae7-401d-b164-c11d17e7b560)
+
+![image](https://github.com/PhenyoEstherRasekedi/Data-Analysis-Capstone-Project-4/assets/155717861/bc46e14d-1371-4dbe-bb72-b4651e3af5d8)
+
+
 ### Data Sources
 
 Employee Survey Data: The primary dataset used for this analysis is the 'Employee Survey-HR Survey Responses.csv' file, containing detailed responses from an employee engagement survey conducted
