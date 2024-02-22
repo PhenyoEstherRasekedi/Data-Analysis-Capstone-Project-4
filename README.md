@@ -41,17 +41,40 @@ In the initial data preparation phase, I performed the following tasks:
 
 ### Exploratory Data Analysis
 
+EDA involved exploring the sales data to answer the following key questions:
+
+- Which survey questions did respondents agree with or disagree with most?
+
+- What percentage of employees completed the survey?
+
+- Do you see any patterns or trends by department or role?
+
+- Is the company meeting employee wellbeing?
+
+- As an employer, what steps might you take to improve employee satisfaction based on the survey
+  results?
+
+-
+
 ### Data Analysis
 
 The following PowerBi features were incorporated:
 
+- Conditional Column
 - Filters
-- Tooltips
 - Interactive Slicers
 
 ### Results/Findings
 
 The analysis results are summarized as follows:
+
+1. The question most employees agreed with was 'I know what is expected of me at work'. The one most disagreed with was 'In the last seven days, I have received recognition or praise for doing good work.
+
+2. 99% of employees completed the survey, this is important because hearing their feedback and taking action gives employees a voice and leads to increased satisfaction, resulting in a happier workforce with a better sense of belonging. This positive attitude can boost morale and increase retention.
+
+3. When employees feel valued and cared for, they will be more engaged and more productive, which benefits the company as well.
+
+4. Since most do not feel recognized for doing good work and feet their supervisors do not hold employeed accountable for perfomance. As an employer, I would train supervisors to offer regular feedback and recognition opportunities with benefits that are tailored to the individual.
 
 ### Recommendations
 
