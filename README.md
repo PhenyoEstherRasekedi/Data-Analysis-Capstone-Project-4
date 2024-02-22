@@ -9,8 +9,6 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results/Findings](#resultsfindings)
-- [Recommendations](#recommendations)
-- [Limitations](#limitations)
 
 ### Project Overview
 
@@ -43,18 +41,14 @@ In the initial data preparation phase, I performed the following tasks:
 
 EDA involved exploring the sales data to answer the following key questions:
 
-- Which survey questions did respondents agree with or disagree with most?
-
 - What percentage of employees completed the survey?
+
+- Which survey questions did respondents agree with or disagree with most?
 
 - Do you see any patterns or trends by department or role?
 
-- Is the company meeting employee wellbeing?
-
 - As an employer, what steps might you take to improve employee satisfaction based on the survey
   results?
-
--
 
 ### Data Analysis
 
@@ -68,14 +62,16 @@ The following PowerBi features were incorporated:
 
 The analysis results are summarized as follows:
 
-1. The question most employees agreed with was 'I know what is expected of me at work'. The one most disagreed with was 'In the last seven days, I have received recognition or praise for doing good work.
+1. 99% of supervisors, staff and managers completed the survey while only 96% of Directors completed the survey.
 
-2. 99% of employees completed the survey, this is important because hearing their feedback and taking action gives employees a voice and leads to increased satisfaction, resulting in a happier workforce with a better sense of belonging. This positive attitude can boost morale and increase retention.
+2. The question most employees agreed with was 'I know what is expected of me at work'. The one most disagreed with was 'In the last seven days, I have received recognition or praise for doing good work.
 
-3. When employees feel valued and cared for, they will be more engaged and more productive, which benefits the company as well.
+3. From the analysis, the two departments which are unsatisfied across the 5 disagreed with questions are planning and public works and sherrif's department. The most unsatisfied employee roles are staff and supervisors. 52% of staff in the planning department do not have a best friend at work. 70% of the supervisors in the Sherrif's department feel unsatisfied with their job.
 
-4. Since most do not feel recognized for doing good work and feet their supervisors do not hold employeed accountable for perfomance. As an employer, I would train supervisors to offer regular feedback and recognition opportunities with benefits that are tailored to the individual.
+4. Since most staff and supervisors do not feel recognized for doing good work and feel their supervisors do not hold employees accountable for perfomance. As an employer, I would implement regular feedback and recognition opportunities with benefits that are tailored to the individual.
 
-### Recommendations
+Employees do not have close friends at work to make them feel valued and cared for, as an employer I would create opportunities to build relationships. This could be done by providing time and space for employees to get together for coffee or a shared activity to talk about their interests, goals and challenges.
 
-### Limitations
+A number of employees feel the mission or purpose of the organisation does not make them feel their job is important. As an employer, I would provide mission driven work opportunities to help employees understand their impact on organizational strategy while supporting careers for market competitiveness.
+
+A large number of supervisors in the Sherrif's department are not satisfied with their job. As an employer I would
