@@ -18,7 +18,7 @@ This project aims to provide insight into the employee survey data to help the H
 
 ### Data Sources
 
-Employee Survey Data: The primary dataset used for this analysis is the 'Employee Survey-HR Survey Responses.csv' file, containing detailed actual responses from an employee engagement survey conducted
+Employee Survey Data: The primary dataset used for this analysis is the 'Employee Survey-HR Survey Responses.csv' file, containing detailed responses from an employee engagement survey conducted
 by Pierce County WA and completed voluntarily by government employees. The dataset is a Single table
 and contains 14,725 records. The total number of fields is 10.
 
@@ -62,16 +62,16 @@ The following PowerBi features were incorporated:
 
 The analysis results are summarized as follows:
 
-1. 99% of supervisors, staff and managers completed the survey while only 96% of Directors completed the survey.
+1. **99%** of supervisors, staff and managers completed the survey while only **96%** of Directors completed the survey.
 
 2. The question most employees agreed with was 'I know what is expected of me at work'. The one most disagreed with was 'In the last seven days, I have received recognition or praise for doing good work.
 
-3. From the analysis, the two departments which are unsatisfied across the 5 disagreed with questions are planning and public works and sherrif's department. The most unsatisfied employee roles are staff and supervisors. 52% of staff in the planning department do not have a best friend at work. 70% of the supervisors in the Sherrif's department feel unsatisfied with their job.
+3. From the analysis, the two departments which are unsatisfied across the 5 disagreed with questions are planning and public works and sherrif's department. The most unsatisfied employee roles are staff and supervisors. **52%** of staff in the planning department do not have a best friend at work. **70%** of the supervisors in the Sherrif's department feel unsatisfied with their job.
 
 4. Since most staff and supervisors do not feel recognized for doing good work and feel their supervisors do not hold employees accountable for perfomance. As an employer, I would implement regular feedback and recognition opportunities with benefits that are tailored to the individual.
 
-Employees do not have close friends at work to make them feel valued and cared for, as an employer I would create opportunities to build relationships. This could be done by providing time and space for employees to get together for coffee or a shared activity to talk about their interests, goals and challenges.
+- Employees do not have close friends at work to make them feel valued and cared for, as an employer I would create opportunities to build relationships especially in the planning and public works department. This could be done by providing time and space for employees to get together for coffee or a shared activity to talk about their interests, goals and challenges.
 
-A number of employees feel the mission or purpose of the organisation does not make them feel their job is important. As an employer, I would provide mission driven work opportunities to help employees understand their impact on organizational strategy while supporting careers for market competitiveness.
+- A number of employees feel the mission or purpose of the organisation does not make them feel their job is important. As an employer, I would provide mission driven work opportunities to help employees understand their impact on organizational strategy while supporting careers for market competitiveness.
 
-A large number of supervisors in the Sherrif's department are not satisfied with their job. As an employer I would
+- A large number of supervisors in the Sherrif's department are not satisfied with their job. As an employer, in addition to investigating the root cause of their unsatisfaction, I would ensure that they are appropriately challenged. Focusing on each employee's learning curve to make sure its at a steep enough angle based on where they are in their career journey. Most employees crave new challenges when they’ve been in a role too long or just got overburdened.
