@@ -14,12 +14,12 @@
 
 This project aims to provide insight into the employee survey data to help the HR department to improve employee satisfaction by analyzing and drawing out meaningful insights from the dataset.
 
-**_Disclaimer_** : _all datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of PowerBi._
+**_Disclaimer_** : \_all datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of PowerBi
 
 ### Data Sources
 
 Employee Survey Data: The primary dataset used for this analysis is the 'Employee Survey-HR Survey Responses.csv' file, containing detailed responses from an employee engagement survey conducted
-by Pierce County WA and completed voluntarily by government employees. The dataset is a Single table
+by Pierce County WA and completed voluntarily by government employees. The dataset is a single table
 and contains 14,725 records. The total number of fields is 10.
 
 ### Tools
